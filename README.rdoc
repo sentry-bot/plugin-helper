@@ -1,27 +1,3 @@
 = sentry-helper
 
-* {Homepage}[https://rubygems.org/gems/sentry-helper]
-* {Documentation}[http://rubydoc.info/gems/sentry-helper/frames]
-* {Email}[mailto:apersson.93 at gmail.com]
-
-== Description
-
-TODO: Description
-
-== Features
-
-== Examples
-
-  require 'sentry/helper'
-
-== Requirements
-
-== Install
-
-  $ gem install sentry-helper
-
-== Copyright
-
-Copyright (c) 2015 jRiddick
-
-See LICENSE.txt for details.
+Some helper functions and classes for Sentry plugins
