@@ -5,8 +5,7 @@ require File.expand_path('../lib/sentry/helper/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.name          = "sentry-helper"
   gem.version       = Sentry::Helper::VERSION
-  gem.summary       = %q{TODO: Summary}
-  gem.description   = %q{TODO: Description}
+  gem.summary       = %q{Helper functions used in sentry plugins}
   gem.license       = "MIT"
   gem.authors       = ["jRiddick"]
   gem.email         = "apersson.93@gmail.com"
@@ -18,6 +17,4 @@ Gem::Specification.new do |gem|
   gem.require_paths = ['lib']
 
   gem.add_development_dependency 'bundler', '~> 1.0'
-  gem.add_development_dependency 'rake', '~> 0.8'
-  gem.add_development_dependency 'rubygems-tasks', '~> 0.2'
 end
